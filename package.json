@@ -1,0 +1,29 @@
+{
+  "name": "tweet-nacl-react-native-expo",
+  "version": "1.0.3",
+  "description": "Tweet NaCl for React Native Expo which uses expo-random to get random bytes (getRandomBytesAsync - equivalent to Node.js crypt.randomBytes), ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tweet",
+    "tweet",
+    "nacl",
+    "react",
+    "native",
+    "expo",
+    "random",
+    "getRandomBytesAsync"
+  ],
+  "author": "Flavio Rajta",
+  "license": "ISC",  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajtatata/react-native-expo-tweet-nacl"
+  },
+  "dependencies": {
+    "base64-js": "^1.3.0",
+    "expo-random": "^5.0.1"
+  }
+}
