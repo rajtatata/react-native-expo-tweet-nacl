@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "base64-js": "^1.3.0",
-    "expo-random": "^5.0.1"
+    "expo-random": "^11.2.0"
   }
 }
